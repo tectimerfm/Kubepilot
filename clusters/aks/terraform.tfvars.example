@@ -1,0 +1,11 @@
+# terraform.tfvars.example (AKS)
+# Copy to terraform.tfvars if you want to override defaults.
+
+# azure_location        = "eastus"
+# azure_subscription_id = "<SUBSCRIPTION_ID>"  # optional
+
+# node_os   = "ubuntu"      # ubuntu|azurelinux|mariner
+# node_count = 2
+# vm_size   = "Standard_D2s_v3"
+
+# install_aqua_enforcer = false

@@ -1,0 +1,11 @@
+# terraform.tfvars.example (GKE)
+# Copy to terraform.tfvars if you want to override defaults.
+
+# project_id = "<YOUR_GCP_PROJECT_ID>"
+# region     = "us-central1"
+
+# node_os      = "cos"      # cos|ubuntu
+# node_count   = 2
+# machine_type = "e2-standard-2"
+
+# install_aqua_enforcer = false
